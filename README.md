@@ -17,7 +17,7 @@ For Reference Only
 </pre>
 
 ## Table of Contents
-### [Unit 1](/Unit%01/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Unit 1](/Unit01/) - [An Introduction to Python Programming and the OO Programming Paradigm]([https://cs50.harvard.edu/python/2022/weeks/0/](https://www.my-course.co.uk/course/view.php?id=11400&section=8))
 - [Indoor Voice](/Week%200/Indoor%20Voice)
 - [Playback Speed](/Week%200/Playback%20Speed)
 - [Making Faces](/Week%200/Making%20Faces)
