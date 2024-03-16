@@ -9,19 +9,15 @@ Object Oriented Programming March 2024
 </h1>
 
 <p align="center">
-  <a href="https://cs50.harvard.edu/python/2022/">Course Link</a>
+  <a href="#">Course Link</a>
 </p>
 
 <pre align="center">
 For Reference Only
 </pre>
 
-<a href="https://certificates.cs50.io/f1effb2f-e62c-49d4-87b7-df4f49e41fa9.png">
-  <img src="https://certificates.cs50.io/f1effb2f-e62c-49d4-87b7-df4f49e41fa9.png" alt="cs50p-certificates" />
-</a>
-
 ## Table of Contents
-### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Unit 1](/Unit%201/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/Week%200/Indoor%20Voice)
 - [Playback Speed](/Week%200/Playback%20Speed)
 - [Making Faces](/Week%200/Making%20Faces)
