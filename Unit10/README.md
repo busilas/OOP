@@ -1,4 +1,14 @@
-<h1 align="center">
-Unit 10: Testing Code in Practice
-</h1>
+# Unit 10: Testing Code in Practice
+
+## Description
+
+Submit all of the tasks below:
+
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+
 
