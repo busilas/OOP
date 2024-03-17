@@ -10,18 +10,14 @@ print(type(Person))
 print(Person)
 ```
 Run this code sample with the Python drop down menu option.
-<br><br>
-
+<br>
 2. This code creates a new user-defined type (class), called Person and then outputs its type.<br>
 <class 'type’>
 <class 'main.Person’>
-
-<br><br>
-
+<br>
 3. Using the type() method in print(), tells us the object is a type but printing the class itself indicates it is a main.Person and shows it as a class
 4. However, this class isn’t really useful because it’s just a class name and that is it. In order to be useful, it must have some member data fields (attributes) to store information specific to the instance of a Person you will create later. Member functions(methods) will be covered in the next unit
 5. Modify your code to look like this:
-   
 ```
 class Person:
      """Represents a generic Person."""
