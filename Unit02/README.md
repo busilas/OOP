@@ -1,3 +1,12 @@
-<h1 align="center">
-Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
-</h1>
+# Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
+
+## Description
+
+Submit all of the tasks below:
+
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
+- ✅ Exercise XX.X
