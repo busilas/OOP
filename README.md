@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://www.romstorprojects.co.uk/wp-content/uploads/university-of-essex-logo.png?x73654" alt="logo" height="150"/>
+<img src="https://www.romstorprojects.co.uk/wp-content/uploads/university-of-essex-logo.png?x73654" alt="logo" height="120"/>
 </p>
 
 <h1 align="center">
