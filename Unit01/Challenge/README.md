@@ -4,7 +4,7 @@ This challenge will make some changes to the previous challenge. You will make u
 1. In this challenge, you will create five (5) Person objects with appropriate values for first name, last name, weight, and height.<br>
 2. For this exercise, you can use the names p1, p2, p3, etc. for the names of your instantiated objects.<br>
 3. Once you have all five objects, create a list and store the objects in the list. Recall, an object is simply an instance of a user-defined type, so the syntax is the same as adding any other variable to a list.<br>
-4. Using a for loop, iterate over your list and print out the first names of each of your Person objects that you created. The output should look something like this:
+4. Using a for loop, iterate over your list and print out the first names of each of your Person objects that you created. The output should look something like this:<br>
 Tom<br>
 Fred<br>
 George<br>
