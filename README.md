@@ -8,13 +8,6 @@
 Object Oriented Programming - March 2024
 </h1>
 
-<p align="center">
-  <a href="#">Course Link</a>
-</p>
-
-<pre align="center">
-For Reference Only
-</pre>
 
 ## Table of Contents
 ### [Unit 1](/Unit01/) - [An Introduction to Python Programming and the OO Programming Paradigm](https://www.my-course.co.uk/course/view.php?id=11400&section=8)
