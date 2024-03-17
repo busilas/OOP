@@ -20,6 +20,9 @@ For Reference Only
 ### [Unit 1](/Unit01/) - [An Introduction to Python Programming and the OO Programming Paradigm](https://www.my-course.co.uk/course/view.php?id=11400&section=8)
 - [Exercise 15.1](/Unit01/Indoor%20Voice)
 - [Exercise 15.2](/Unit01/Playback%20Speed)
+- [Tutorial Lab 1: Creating a Class](/Unit01/Making%20Faces)
+- [Tutorial Lab 2: Instantiate a Class](/Unit01/Making%20Faces)
+- [Tutorial Lab 3: Modify Instance Data Members](/Unit01/Making%20Faces)
 - [Challenge](/Unit01/Making%20Faces)
 
 ### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
