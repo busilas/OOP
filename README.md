@@ -5,8 +5,9 @@
 </p>
 
 <h1 align="center">
-Object Oriented Programming<br>March 2024
+Object Oriented Programming
 </h1>
+<h2 align="center">March 2024</h2>
 <br>
 <br>
 
