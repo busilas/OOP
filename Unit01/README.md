@@ -11,3 +11,5 @@ Submit all of the tasks below:
 - ✅ Tutorial Lab 3: Modify Instance Data Members
 - ✅ Challenge
 
+e-Portfolio activities
+- ✅ Protected and unprotected variables
