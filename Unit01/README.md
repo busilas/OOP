@@ -2,7 +2,7 @@
 
 ## Description
 
-Submit all of the tasks below:
+Submit all of the Codio tasks below:
 
 - ✅ Exercise 15.1
 - ✅ Exercise 15.2
@@ -11,5 +11,5 @@ Submit all of the tasks below:
 - ✅ Tutorial Lab 3: Modify Instance Data Members
 - ✅ Challenge
 
-e-Portfolio activities
+Submit of e-Portfolio activities below:
 - ✅ Protected and unprotected variables
