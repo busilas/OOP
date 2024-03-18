@@ -12,8 +12,8 @@ Object Oriented Programming<br>March 2024
 
 ## Table of Contents
 ### [Unit 1](/Unit01/) - [An Introduction to Python Programming and the OO Programming Paradigm](https://www.my-course.co.uk/course/view.php?id=11400&section=8)
-- [Exercise 15.1](/Unit01/Indoor%20Voice)
-- [Exercise 15.2](/Unit01/Playback%20Speed)
+- [Exercise 15.1](/Unit01/Exercise%2015.1)
+- [Exercise 15.2](/Unit01/Exercise%2015.2)
 - [Tutorial Lab 1: Creating a Class](/Unit01/Making%20Faces)
 - [Tutorial Lab 2: Instantiate a Class](/Unit01/Making%20Faces)
 - [Tutorial Lab 3: Modify Instance Data Members](/Unit01/Making%20Faces)
