@@ -18,6 +18,7 @@ Object Oriented Programming<br>March 2024
 - [Tutorial Lab 2: Instantiate a Class](/Unit01/Making%20Faces)
 - [Tutorial Lab 3: Modify Instance Data Members](/Unit01/Making%20Faces)
 - [Challenge](/Unit01/Making%20Faces)
+- [e-Portfolio Activity - Protected and unprotected variables](/Unit01/Making%20Faces)
 
 ### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
 - [Exercise XX.X](/Unit02/Indoor%20Voice)
