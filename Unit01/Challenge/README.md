@@ -12,3 +12,10 @@ Tanya<br>
 Mary<br>
 
 5. Step 4 will require you to think about how you will access each member of the list and then how to access the correct attribute of that object to output it with a print statement
+
+## Program Code
+
+```python
+
+```
+
