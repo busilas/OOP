@@ -18,7 +18,7 @@ Object Oriented Programming<br>March 2024
 - [Tutorial Lab 2: Instantiate a Class](/Unit01/Tutorial%20Lab%202%3A%20Instantiate%20a%20Class)
 - [Tutorial Lab 3: Modify Instance Data Members](/Unit01/Tutorial%20Lab%203%3A%20Modify%20Instance%20Data%20Members)
 - [Challenge](/Unit01/Challenge)
-- [e-Portfolio Activity - Protected and unprotected variables](/Unit01/Protected%20and%20unprotected%20variables)
+- [e-Portfolio Activity: Protected and unprotected variables](/Unit01/Protected%20and%20unprotected%20variables)
 
 ### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
 - [Exercise XX.X](/Unit02/Indoor%20Voice)
