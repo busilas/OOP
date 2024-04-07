@@ -3,7 +3,6 @@
 ## Description
 
 Submit all of the tasks below:
-
 - ✅ Exercise 16.1
 - ✅ Exercise 16.2
 - ✅ Exercise 17.1
@@ -15,3 +14,5 @@ Submit all of the tasks below:
 - ✅ Challenge One
 - ✅ Stretch Challenge
 
+Submit optional extension activities:
+- ✅ Basic employee-related functionality
