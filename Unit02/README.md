@@ -8,5 +8,10 @@ Submit all of the tasks below:
 - ✅ Exercise 16.2
 - ✅ Exercise 17.1
 - ✅ Exercise 17.2
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
+- ✅ Tutorial Lab 1: Instance Methods
+- ✅ Tutorial Lab 2: Demonstrating Instance Methods
+- ✅ Tutorial Lab 3: Static Members
+- ✅ Tutorial Lab 4: Static Methods
+- ✅ Challenge One
+- ✅ Stretch Challenge
+
