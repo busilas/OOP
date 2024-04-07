@@ -31,7 +31,7 @@ Object Oriented Programming<br>March 2024
 - [Tutorial Lab 4: Static Methods](/Unit02/Tutorial%20Lab%201%3A%20Creating%20a%20Class)
 - [Challenge One](/Unit02/Challenge)
 - [Stretch Challenge](/Unit02/Challenge)
-
+- [Optional extension activities: Basic employee-related functionality](/Unit02/Protected%20and%20unprotected%20variables)
 
 ### [Unit 3](/Unit03/) - [Unified Modelling Language (UML)](https://www.my-course.co.uk/course/view.php?id=11400&section=10)
 - [Exercise XX.X](/Unit03/Indoor%20Voice)
