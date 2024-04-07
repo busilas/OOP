@@ -3,7 +3,6 @@
 ## Description
 
 Submit all of the Codio tasks below:
-
 - ✅ Exercise 15.1
 - ✅ Exercise 15.2
 - ✅ Tutorial Lab 1: Creating a Class
