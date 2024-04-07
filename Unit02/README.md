@@ -4,9 +4,9 @@
 
 Submit all of the tasks below:
 
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
+- ✅ Exercise 16.1
+- ✅ Exercise 16.2
+- ✅ Exercise 17.1
+- ✅ Exercise 17.2
 - ✅ Exercise XX.X
 - ✅ Exercise XX.X
