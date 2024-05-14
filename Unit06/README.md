@@ -2,8 +2,7 @@
 
 ## Description
 
-Submit all of the tasks below:
-
+Submit of Codio activities below:
 - ✅ Exercise XX.X
 - ✅ Exercise XX.X
 - ✅ Exercise XX.X
