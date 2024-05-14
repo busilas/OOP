@@ -12,25 +12,45 @@ Object Oriented Programming<br>March 2024
 
 ## Table of Contents
 ### [Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm](/Unit01/)
-- Codio-Exercises
-- e-Portfolio Activities
-- Collaborative Discussion 1Forum
-
+- Codio activities
+- e-Portfolio activities
+- Collaborative discussion 1 - Initial post
 
 ### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
-- [Codio-Exercise 16.1](/Unit02/Indoor%20Voice)
-- [Codio-Exercise 16.2](/Unit02/Playback%20Speed)
-- [Codio-Exercise 17.1](/Unit02/Playback%20Speed)
-- [Codio-Exercise 17.2](/Unit02/Playback%20Speed)
-- [Codio-Tutorial Lab 1: Instance Methods](/Unit02/Tutorial%20Lab%201%3A%20Creating%20a%20Class)
-- [Codio-Tutorial Lab 2: Demonstrating Instance Methods](/Unit02/Tutorial%20Lab%201%3A%20Creating%20a%20Class)
-- [Codio-Tutorial Lab 3: Static Members](/Unit02/Tutorial%20Lab%201%3A%20Creating%20a%20Class)
-- [Codio-Tutorial Lab 4: Static Methods](/Unit02/Tutorial%20Lab%201%3A%20Creating%20a%20Class)
-- [Codio-Challenge One](/Unit02/Challenge)
-- [Codio-Stretch Challenge](/Unit02/Challenge)
-- [Optional extension activities: Basic employee-related functionality](/Unit02/Protected%20and%20unprotected%20variables)
+- Codio and Optional Extension activities
+- Collaborative discussion 1 - Peer responses
 
 ### [Unit 3](/Unit03/) - [Unified Modelling Language (UML)](https://www.my-course.co.uk/course/view.php?id=11400&section=10)
-- [Codio-Exercise XX.X](/Unit03/Indoor%20Voice)
-- [Codio-Exercise XX.X](/Unit03/Playback%20Speed)
+- e-Portfolio activities
+- Collaborative discussion 1 - Summary post
 
+### [Unit 4](/Unit04/) - [Applying a UML Model to a Program Implementation: UML in Practice)](https://www.my-course.co.uk/course/view.php?id=11400&section=11)
+- No activities
+
+### [Unit 5](/Unit05/) - [More on Classes)](https://www.my-course.co.uk/course/view.php?id=11400&section=12)
+- Codio activities
+- e-Portfolio activities
+
+### [Unit 6](/Unit06/) - [Abstract Methods and Interfaces)](https://www.my-course.co.uk/course/view.php?id=11400&section=13)
+- Codio activities
+
+### [Unit 7](/Unit07/) - [Debugging / Error Handling, Data Structures and Data Search)](https://www.my-course.co.uk/course/view.php?id=11400&section=14)
+- e-Portfolio activities
+- Summative Assessment: System Design
+
+### [Unit 8](/Unit08/) - [Data Structures and Data Search in Practice)](https://www.my-course.co.uk/course/view.php?id=11400&section=15)
+- Codio activities
+- Collaborative discussion 2 - Initial post
+
+### [Unit 9](/Unit09/) - [Packaging and Testing)](https://www.my-course.co.uk/course/view.php?id=11400&section=16)
+- e-Portfolio activities
+- Collaborative discussion 2 - Peer responses
+
+### [Unit 10](/Unit10/) - [Testing Code in Practice)](https://www.my-course.co.uk/course/view.php?id=11400&section=17)
+- Collaborative discussion 2 - Summary post
+
+### [Unit 11](/Unit11/) - [Pointers, References & Memory, and Design Patterns)](https://www.my-course.co.uk/course/view.php?id=11400&section=18)
+- Summative Assessment: System Implementation
+
+### [Unit 12](/Unit12/) - [Working with Design Patterns to Structure Code)](https://www.my-course.co.uk/course/view.php?id=11400&section=19)
+- Summative Assessment: e-Portfolio Submission
