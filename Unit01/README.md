@@ -12,3 +12,6 @@ Submit all of the Codio tasks below:
 
 Submit of e-Portfolio activities below:
 - ✅ Protected and unprotected variables
+
+Submit of Collaborative Discussion 1 below:
+- ✅ Initial Post
