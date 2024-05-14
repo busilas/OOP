@@ -2,12 +2,7 @@
 
 ## Description
 
-Submit all of the tasks below:
+No activities
 
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
+
 
