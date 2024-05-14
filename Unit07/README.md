@@ -2,13 +2,8 @@
 
 ## Description
 
-Submit all of the tasks below:
+Submit of e-Portfolio activities below:
+- ✅ Summary post
 
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-
-
+Submit of the Summative Assessment below:
+- ✅ System Design
