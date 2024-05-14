@@ -2,13 +2,5 @@
 
 ## Description
 
-Submit all of the tasks below:
-
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-
-
+Submit of the Summative Assessment below:
+- ✅ System Implementation
