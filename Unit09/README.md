@@ -2,13 +2,8 @@
 
 ## Description
 
-Submit of Codio activities below:
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-
 Submit of e-Portfolio activities below:
 - ✅ Summary post
+
+Submit of Collaborative discussion 2 below:
+- ✅ Peer responses
