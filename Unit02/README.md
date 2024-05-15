@@ -2,7 +2,7 @@
 
 ## Description
 
-Submit of Codio activities below:
+Submit of Codio and optional extension activities below:
 - ✅ Exercise 16.1
 - ✅ Exercise 16.2
 - ✅ Exercise 17.1
