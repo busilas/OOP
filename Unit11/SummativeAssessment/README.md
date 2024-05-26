@@ -16,8 +16,8 @@ The project is organized into several modules, each responsible for different as
 
 **Lidar** simulates a Lidar sensor by generating random distance data to represent a 360-degree scan.
 
-**Attributes:**
+Attributes:
 - **sensorType:** Type of the sensor, set to "Lidar".
   
-**Methods:**
+Methods:
 - **readSensorData():** Returns a dictionary with sensor data, including 360 random distances.
