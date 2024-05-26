@@ -8,6 +8,34 @@
 
 This repository contains a Python OOP-based simulation of a driverless car system implementation. The system is a comprehensive simulation framework that integrates key components, such as environmental perception, passenger interaction, vehicle control, and navigation, to demonstrate how these components collaborate to deliver a seamless and safe driving experience in a simulated environment.
 
+## Getting Started
+
+To get started with the Driverless Car System, follow these steps:
+
+1.	Clone the repository:
+
+```bash
+git clone https://github.com/busilas/driverless-car-system.git
+```
+
+2.	Navigate to the Project Directory:
+
+```bash
+cd driverless-car-system
+```
+    
+3.	Run the application:
+
+```bash
+python main.py
+```
+
+## Interact with the system:
+
+Follow the prompts to log in, sign up, and interact with the car system.
+
+Set destinations, start and stop journeys, and observe the vehicle's behavior.
+
 ## Project Structure
 
 The project is organized into several modules, each responsible for different aspects of the system. Below is a detailed description of each module:
@@ -159,34 +187,6 @@ Methods:
 -	**detectObstacles():** Detects obstacles based on Lidar data.
 -	**assessObstacleRisk():** Assesses the risk of detected obstacles.
 -	**getObstacles():** Returns the list of detected obstacles.
-
-## Getting Started
-
-To get started with the Driverless Car System, follow these steps:
-
-1.	Clone the repository:
-
-```bash
-git clone https://github.com/busilas/driverless-car-system.git
-```
-
-2.	Navigate to the Project Directory:
-
-```bash
-cd driverless-car-system
-```
-    
-3.	Run the application:
-
-```bash
-python main.py
-```
-
-## Interact with the system:
-
-Follow the prompts to log in, sign up, and interact with the car system.
-
-Set destinations, start and stop journeys, and observe the vehicle's behavior.
 
 ## Future Enhancements
 
