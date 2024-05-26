@@ -43,3 +43,20 @@ Methods:
 
 - **getCoordinates():** Returns the current coordinates, incrementing them slightly each call to simulate movement.
 
+**2.	environment_perception.py** this module is responsible for processing data from the sensors and detecting obstacles.
+
+**EnvironmentalPerception** integrates Lidar, GPS, and Camera sensors to form a comprehensive perception system.
+
+Attributes:
+
+- **lidarSensor, gps, camera:** Instances of Lidar, GPS, and Camera classes.
+-	**sensorData:** Dictionary to store sensor data.
+- **obstacles:** List of detected obstacles.
+  
+Methods:
+
+-	**processSensorData():** Reads data from all sensors and stores it in sensorData.
+-	**detectObstacles():** Detects obstacles based on Lidar data.
+-	**assessObstacleRisk():** Assesses the risk of detected obstacles.
+-	**getObstacles():** Returns the list of detected obstacles.
+
