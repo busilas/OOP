@@ -21,3 +21,25 @@ Attributes:
   
 Methods:
 - **readSensorData():** Returns a dictionary with sensor data, including 360 random distances.
+
+**Camera** simulates an RGB camera.
+
+Attributes:
+
+- **cameraType:** Type of the camera, set to "RGB".
+  
+Methods:
+
+- **captureImage():** Returns a dictionary with the camera type and a placeholder for the captured image.
+
+**GPS** simulates a GPS sensor.
+
+Attributes:
+
+- **latitude:** Latitude coordinate.
+- **longitude:** Longitude coordinate.
+
+Methods:
+
+- **getCoordinates():** Returns the current coordinates, incrementing them slightly each call to simulate movement.
+
