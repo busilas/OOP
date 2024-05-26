@@ -12,7 +12,8 @@ The Driverless Car System is a comprehensive simulation framework that integrate
 
 The project is organized into several modules, each responsible for different aspects of the system. Below is a detailed description of each module:
 
-1.	<b>sensors.py</b> this module contains classes that simulate various sensors used in the driverless car, including Lidar, Camera, and GPS.
+**1.	sensors.py** this module contains classes that simulate various sensors used in the driverless car, including Lidar, Camera, and GPS.
 Lidar simulates a Lidar sensor by generating random distance data to represent a 360-degree scan.
-Attributes:
+- **Attributes:**
+-- **sensorType:** Type of the sensor, set to "Lidar".
 
