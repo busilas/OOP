@@ -15,7 +15,7 @@ To get started with the Driverless Car System, follow these steps:
 1.	Clone the repository:
 
 ```bash
-git clone https://github.com/busilas/OOP_UoE/tree/main/Unit11/SummativeAssessment
+git clone https://github.com/busilas/OOP_UoE/tree/main/Unit11/driverless-car-system
 ```
 
 2.	Navigate to the Project Directory:
