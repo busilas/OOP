@@ -165,12 +165,19 @@ Methods:
 To get started with the Driverless Car System, follow these steps:
 
 1.	Clone the repository:
-    ```git clone https://github.com/your-repo/driverless-car-system.git
-    ```
+
+```bash
+git clone https://github.com/busilas/driverless-car-system.git
+```
 
 2.	Navigate to the Project Directory:
-    ```cd driverless-car-system
-    ```
-3.	Run the application:
-    ```python main.py
-    ```
+
+```bash
+cd driverless-car-system
+```
+    
+4.	Run the application:
+
+```bash
+python main.py
+```
