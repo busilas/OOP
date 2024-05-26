@@ -60,3 +60,120 @@ Methods:
 -	**assessObstacleRisk():** Assesses the risk of detected obstacles.
 -	**getObstacles():** Returns the list of detected obstacles.
 
+**3.	passenger_interaction.py** this module handles user interactions and passenger-related functionalities.
+
+**User** represents a user with attributes for first name, last name, account name, and password.
+
+Methods:
+
+-	**verify_password(password):** Verifies the provided password.
+
+**PassengerInteraction** manages destinations and journey status.
+
+Attributes:
+
+-	**destinations:** Dictionary of destinations.
+-	**journey_started:** Boolean indicating if a journey is in progress.
+
+Methods:
+
+- **set_destination(location, destination):** Sets a destination for a location.
+-	**search_destination(location):** Searches for a destination by location.
+-	**edit_destination(location, new_destination):** Edits a destination.
+-	**delete_destination(location):** Deletes a destination.
+-	**start_journey(), stop_journey():** Manage journey status.
+
+**DriverlessCar** simulates a driverless car.
+
+Attributes:
+
+-	**carModel:** Model of the car.
+-	**carSpeed:** Speed of the car.
+-	**steeringAngle:** Steering angle of the car.
+
+Methods:
+
+-	**set_car_speed(speed), get_car_speed():** Manage car speed.
+-	**set_steering_angle(angle), get_steering_angle():** Manage steering angle.
+-	**apply_brake():** Stops the car.
+
+**4.	driverless_car_system.py** this module integrates user management and passenger interaction into the main system.
+
+**DriverlessCarSystem** manages user accounts and their interactions with the system.
+
+Attributes:
+
+-	**users:** List of registered users.
+-	**passenger_interaction:** Instance of PassengerInteraction.
+-	**current_user:** Currently logged-in user.
+
+Methods:
+
+-	**login(), logout(), signup():** Manage user sessions.
+-	**user_menu(), main_menu():** Display menus for user interactions.
+
+**5.	navigation.py** this module handles route planning and navigation.
+
+**Navigation** manages route planning and waypoint navigation.
+
+Attributes:
+
+-	**route:** List of waypoints forming the route.
+-	**current_index:** Index of the current waypoint.
+
+Methods:
+
+-	**plan_route(start, destination):** Plans a route from start to destination.
+- **get_next_waypoint():** Returns the next waypoint.
+-	**has_reached_destination():** Checks if the destination has been reached.
+- **calculate_distance(point1, point2):** Calculates the distance between two points.
+
+**6.	control.py** this module controls the vehicle based on sensor data and navigation.
+
+**Control** manages vehicle speed and steering to avoid obstacles and follow a route.
+
+Attributes:
+
+-	**vehicle:** Instance of DriverlessCar.
+-	**environmentalPerception:** Instance of EnvironmentalPerception.
+-	**navigation:** Instance of Navigation.
+-	**current_speed:** Current speed of the vehicle.
+-	**steering_angle:** Current steering angle of the vehicle.
+
+Methods:
+
+- **accelerate(acceleration), brake(deceleration), steer(steering_angle):** Manage vehicle dynamics.
+- **updateVehicleDynamics():** Updates vehicle speed and steering angle.
+- **updateSensorData():** Updates sensor data.
+- **detectAndAvoidObstacles():** Detects and avoids obstacles.
+- **navigate(start, destination):** Plans a route and starts navigation.
+- **follow_route():** Follows the planned route.
+
+**7.	main.py** - the entry point of the application.
+
+**main()** initializes the DriverlessCar and Control instances. Demonstrates the usage of navigation and control functionalities.
+
+
+
+-	**processSensorData():** Reads data from all sensors and stores it in sensorData.
+-	**detectObstacles():** Detects obstacles based on Lidar data.
+-	**assessObstacleRisk():** Assesses the risk of detected obstacles.
+-	**getObstacles():** Returns the list of detected obstacles.
+
+## Getting Started
+
+To get started with the Driverless Car System, follow these steps:
+
+1.	Clone the repository:
+    ```
+git clone https://github.com/your-repo/driverless-car-system.git
+    ```
+
+2.	Navigate to the Project Directory:
+    ```
+cd driverless-car-system
+    ```
+3.	Run the application:
+    ```
+python main.py
+    ```
