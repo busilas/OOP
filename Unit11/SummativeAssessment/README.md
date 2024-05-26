@@ -176,8 +176,28 @@ git clone https://github.com/busilas/driverless-car-system.git
 cd driverless-car-system
 ```
     
-4.	Run the application:
+3.	Run the application:
 
 ```bash
 python main.py
 ```
+
+## Interact with the system:
+
+Follow the prompts to log in, sign up, and interact with the car system.
+
+Set destinations, start and stop journeys, and observe the vehicle's behavior.
+
+## Future Enhancements
+
+This project can be extended in several ways:
+
+-	Improved Sensor Simulations: Implement more realistic sensor data generation.
+-	Advanced Navigation Algorithms: Use real mapping data and more complex pathfinding algorithms.
+-	User Interface: Develop a graphical user interface for easier interaction.
+-	Machine Learning Integration: Incorporate machine learning for better obstacle detection and avoidance.
+
+## Future Enhancements
+
+The Driverless Car System is a foundational framework for simulating and understanding the complexities involved in driverless car technologies. By integrating various modules for environmental perception, passenger interaction, vehicle control, and navigation, this project provides a comprehensive overview of how driverless cars operate and make decisions in real time.
+
