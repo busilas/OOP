@@ -4,7 +4,6 @@
 
 
 
-## Overview
 
 This repository contains a Python OOP-based simulation of a driverless car system implementation. The system is a comprehensive simulation framework that integrates key components, such as environmental perception, passenger interaction, vehicle control, and navigation, to demonstrate how these components collaborate to deliver a seamless and safe driving experience in a simulated environment.
 
