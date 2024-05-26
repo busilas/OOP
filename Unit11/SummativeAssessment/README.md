@@ -1,7 +1,6 @@
-<h1 align = "center"> README </h1>
+<h1 align = "center"> Driverless car system implementation </h1>
 
 
-<h2 align = "center"> Driverless car system implementation </h2>
 
 This repository contains a Python OOP-based simulation of a driverless car system implementation. It encompasses classes that represent various elements of the system, such as user, vehicle, navigation, sensors, and more.
 
