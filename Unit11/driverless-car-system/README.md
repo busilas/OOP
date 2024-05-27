@@ -186,10 +186,11 @@ Methods:
 
 This project can be extended in several ways:
 
--	Improved Sensor Simulations: Implement more realistic sensor data generation.
--	Advanced Navigation Algorithms: Use real mapping data and more complex pathfinding algorithms.
--	User Interface: Develop a graphical user interface for easier interaction.
--	Machine Learning Integration: Incorporate machine learning for better obstacle detection and avoidance.
+-	Improved Sensor Simulations: Implement more realistic sensor data generation (Thakur & Mishra, 2024; Saoudi et al., 2023).
+-	Advanced Navigation Algorithms: Use real mapping data and more complex pathfinding algorithms (Silva et al., 2024; Szántó et al., 2023).
+-	User Interface: Develop a graphical user interface for easier interaction (Yan et al., 2023).
+-	Machine Learning Integration: Incorporate machine learning for better obstacle detection and avoidance (Manikandan et al., 2023; Ntakolia et al., 2023).
+
 
 ## Conclusion
 
