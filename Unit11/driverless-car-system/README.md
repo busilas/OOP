@@ -70,122 +70,116 @@ Methods:
 
 - **getCoordinates():** returns the current coordinates, incrementing them slightly each call to simulate movement.
 
-<h3>2.	environment_perception.py</h3> this module is responsible for processing data from the sensors and detecting obstacles.
+**2.	environment_perception.py** processes data from sensors and detects obstacles.
 
-**EnvironmentalPerception** integrates Lidar, GPS, and Camera sensors to form a comprehensive perception system.
+**EnvironmentalPerception** integrates Lidar, GPS, and Camera sensors.
 
 Attributes:
 
-- **lidarSensor, gps, camera:** Instances of Lidar, GPS, and Camera classes.
--	**sensorData:** Dictionary to store sensor data.
-- **obstacles:** List of detected obstacles.
+- **lidarSensor, gps, camera:** instances of Lidar, GPS, and Camera classes.
+- **sensorData:** dictionary to store sensor data.
+- **obstacles:** list of detected obstacles.
   
 Methods:
 
--	**processSensorData():** Reads data from all sensors and stores it in sensorData.
--	**detectObstacles():** Detects obstacles based on Lidar data.
--	**assessObstacleRisk():** Assesses the risk of detected obstacles.
--	**getObstacles():** Returns the list of detected obstacles.
+-	**processSensorData():** reads data from all sensors and stores it in sensorData.
+-	**detectObstacles():** detects obstacles based on Lidar data.
+-	**assessObstacleRisk():** assesses the risk of detected obstacles.
+-	**getObstacles():** returns the list of detected obstacles.
 
-**3.	passenger_interaction.py** this module handles user interactions and passenger-related functionalities.
+**3.	passenger_interaction.py** handles user interactions and passenger-related functionalities.
 
 **User** represents a user with attributes for first name, last name, account name, and password.
 
 Methods:
 
--	**verify_password(password):** Verifies the provided password.
+-	**verify_password(password):** verifies the provided password.
 
 **PassengerInteraction** manages destinations and journey status.
 
 Attributes:
 
--	**destinations:** Dictionary of destinations.
--	**journey_started:** Boolean indicating if a journey is in progress.
+-	**destinations:** dictionary of destinations.
+-	**journey_started:** boolean indicating if a journey is in progress.
 
 Methods:
 
-- **set_destination(location, destination):** Sets a destination for a location.
--	**search_destination(location):** Searches for a destination by location.
--	**edit_destination(location, new_destination):** Edits a destination.
--	**delete_destination(location):** Deletes a destination.
--	**start_journey(), stop_journey():** Manage journey status.
+- **set_destination(location, destination):** sets a destination for a location.
+-	**search_destination(location):** searches for a destination by location.
+-	**edit_destination(location, new_destination):** edits a destination.
+-	**delete_destination(location):** deletes a destination.
+-	**start_journey(), stop_journey():** manage journey status.
 
 **DriverlessCar** simulates a driverless car.
 
 Attributes:
 
--	**carModel:** Model of the car.
--	**carSpeed:** Speed of the car.
--	**steeringAngle:** Steering angle of the car.
+-	**carModel:** model of the car.
+-	**carSpeed:** speed of the car.
+-	**steeringAngle:** steering angle of the car.
 
 Methods:
 
--	**set_car_speed(speed), get_car_speed():** Manage car speed.
--	**set_steering_angle(angle), get_steering_angle():** Manage steering angle.
--	**apply_brake():** Stops the car.
+-	**set_car_speed(speed), get_car_speed():** manage car speed.
+-	**set_steering_angle(angle), get_steering_angle():** manage steering angle.
+-	**apply_brake():** stops the car.
 
-**4.	driverless_car_system.py** this module integrates user management and passenger interaction into the main system.
+**4.	driverless_car_system.py** integrates user management and passenger interaction into the main system.
 
 **DriverlessCarSystem** manages user accounts and their interactions with the system.
 
 Attributes:
 
--	**users:** List of registered users.
--	**passenger_interaction:** Instance of PassengerInteraction.
--	**current_user:** Currently logged-in user.
+-	**users:** list of registered users.
+-	**passenger_interaction:** instance of PassengerInteraction.
+-	**current_user:** currently logged-in user.
 
 Methods:
 
--	**login(), logout(), signup():** Manage user sessions.
--	**user_menu(), main_menu():** Display menus for user interactions.
+-	**login(), logout(), signup():** manage user sessions.
+-	**user_menu(), main_menu():** display menus for user interactions.
 
-**5.	navigation.py** this module handles route planning and navigation.
+**5.	navigation.py** handles route planning and navigation.
 
 **Navigation** manages route planning and waypoint navigation.
 
 Attributes:
 
--	**route:** List of waypoints forming the route.
--	**current_index:** Index of the current waypoint.
+-	**route:** list of waypoints forming the route.
+-	**current_index:** index of the current waypoint.
 
 Methods:
 
--	**plan_route(start, destination):** Plans a route from start to destination.
-- **get_next_waypoint():** Returns the next waypoint.
--	**has_reached_destination():** Checks if the destination has been reached.
-- **calculate_distance(point1, point2):** Calculates the distance between two points.
+-	**plan_route(start, destination):** plans a route from start to destination.
+- **get_next_waypoint():** returns the next waypoint.
+-	**has_reached_destination():** checks if the destination has been reached.
+- **calculate_distance(point1, point2):** calculates the distance between two points.
 
-**6.	control.py** this module controls the vehicle based on sensor data and navigation.
+**6.	control.py** controls the vehicle based on sensor data and navigation.
 
 **Control** manages vehicle speed and steering to avoid obstacles and follow a route.
 
 Attributes:
 
--	**vehicle:** Instance of DriverlessCar.
--	**environmentalPerception:** Instance of EnvironmentalPerception.
--	**navigation:** Instance of Navigation.
--	**current_speed:** Current speed of the vehicle.
--	**steering_angle:** Current steering angle of the vehicle.
+-	**vehicle:** instance of DriverlessCar.
+-	**environmentalPerception:** instance of EnvironmentalPerception.
+-	**navigation:** instance of Navigation.
+-	**current_speed:** current speed of the vehicle.
+-	**steering_angle:** current steering angle of the vehicle.
 
 Methods:
 
-- **accelerate(acceleration), brake(deceleration), steer(steering_angle):** Manage vehicle dynamics.
-- **updateVehicleDynamics():** Updates vehicle speed and steering angle.
-- **updateSensorData():** Updates sensor data.
-- **detectAndAvoidObstacles():** Detects and avoids obstacles.
-- **navigate(start, destination):** Plans a route and starts navigation.
-- **follow_route():** Follows the planned route.
+- **accelerate(acceleration), brake(deceleration), steer(steering_angle):** manage vehicle dynamics.
+- **updateVehicleDynamics():** updates vehicle speed and steering angle.
+- **updateSensorData():** updates sensor data.
+- **detectAndAvoidObstacles():** detects and avoids obstacles.
+- **navigate(start, destination):** plans a route and starts navigation.
+- **follow_route():** follows the planned route.
 
 **7.	main.py** - the entry point of the application.
 
 **main()** initializes the DriverlessCar and Control instances. Demonstrates the usage of navigation and control functionalities.
 
-
-
--	**processSensorData():** Reads data from all sensors and stores it in sensorData.
--	**detectObstacles():** Detects obstacles based on Lidar data.
--	**assessObstacleRisk():** Assesses the risk of detected obstacles.
--	**getObstacles():** Returns the list of detected obstacles.
 
 ## Future Enhancements
 
