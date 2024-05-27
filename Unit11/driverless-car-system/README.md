@@ -201,3 +201,11 @@ This project can be extended in several ways:
 
 The Driverless Car System is a foundational framework for simulating and understanding the complexities involved in driverless car technologies. By integrating various modules for environmental perception, passenger interaction, vehicle control, and navigation, this project provides a comprehensive overview of how driverless cars operate and make decisions in real time.
 
+
+<br>
+
+## Reference list
+
+Lopez, E. (2022) Bubble sort - how it works, Psuedocode and C++ & Python implementation, Medium. Available at: https://medium.com/codex/bubble-sort-how-it-works-psuedocode-and-c-python-implementation-c45306d44827 [Accessed: 27 January 2024]. 
+
+
