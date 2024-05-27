@@ -6,7 +6,7 @@
 
 
 
-This repository contains a Python OOP-based simulation of a driverless car system implementation. The system is a comprehensive simulation framework that integrates key components, such as environmental perception, passenger interaction, vehicle control, and navigation, to demonstrate how these components collaborate to deliver a seamless and safe driving experience in a simulated environment.
+This repository contains a Python-based simulation of a driverless car system, leveraging Object-Oriented Programming (OOP) principles. The system integrates crucial components such as environmental perception, passenger interaction, vehicle control, and navigation to demonstrate their collaboration in delivering a seamless and safe driving experience within a simulated environment.
 
 ## Getting Started
 
@@ -30,35 +30,34 @@ cd driverless-car-system
 python main.py
 ```
 
-## Interact with the system:
-
-Follow the prompts to log in, sign up, and interact with the car system.
-
-Set destinations, start and stop journeys, and observe the vehicle's behavior.
+Interact with the system by following the prompts to log in, sign up, and navigate the
+car. Set destinations, initiate and halt journeys, and observe the vehicle's behavior.
 
 ## Project Structure
 
-The project is organized into several modules, each responsible for different aspects of the system. Below is a detailed description of each module:
+The project is organized into several modules, each responsible for different aspects
+of the system:
 
-**1.	sensors.py** this module contains classes that simulate various sensors used in the driverless car, including Lidar, Camera, and GPS.
+**1.	sensors.py** module simulates various sensors used in the driverless car, including Lidar,
+Camera, and GPS.
 
-**Lidar** simulates a Lidar sensor by generating random distance data to represent a 360-degree scan.
+**Lidar** generates random distance data to represent a 360-degree scan.
 
 Attributes:
-- **sensorType:** Type of the sensor, set to "Lidar".
+- **sensorType:** set to "Lidar".
   
 Methods:
-- **readSensorData():** Returns a dictionary with sensor data, including 360 random distances.
+- **readSensorData():** returns a dictionary with 360 random distances.
 
 **Camera** simulates an RGB camera.
 
 Attributes:
 
-- **cameraType:** Type of the camera, set to "RGB".
+- **cameraType:** set to "RGB".
   
 Methods:
 
-- **captureImage():** Returns a dictionary with the camera type and a placeholder for the captured image.
+- **captureImage():** returns a dictionary with the camera type and a placeholder for the captured image.
 
 **GPS** simulates a GPS sensor.
 
@@ -69,9 +68,9 @@ Attributes:
 
 Methods:
 
-- **getCoordinates():** Returns the current coordinates, incrementing them slightly each call to simulate movement.
+- **getCoordinates():** returns the current coordinates, incrementing them slightly each call to simulate movement.
 
-**2.	environment_perception.py** this module is responsible for processing data from the sensors and detecting obstacles.
+<h3>2.	environment_perception.py</h3> this module is responsible for processing data from the sensors and detecting obstacles.
 
 **EnvironmentalPerception** integrates Lidar, GPS, and Camera sensors to form a comprehensive perception system.
 
