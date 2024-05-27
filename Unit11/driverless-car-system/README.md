@@ -199,6 +199,19 @@ The Driverless Car System is a foundational framework for simulating and underst
 
 ## Reference list
 
-Lopez, E. (2022) Bubble sort - how it works, Psuedocode and C++ & Python implementation, Medium. Available at: https://medium.com/codex/bubble-sort-how-it-works-psuedocode-and-c-python-implementation-c45306d44827 [Accessed: 27 January 2024]. 
+Manikandan, N.S., Kaliyaperumal, G. & Wang, Y. (2023) ‘Ad hoc-obstacle avoidance-based navigation system using deep reinforcement learning for self-driving vehicles’, IEEE Access, 11, pp. 92285–92297. doi:10.1109/access.2023.3297661. 
+
+Ntakolia, C., Moustakidis, S. & Siouras, A. (2023) ‘Autonomous path planning with obstacle avoidance for Smart Assistive Systems’, Expert Systems with Applications, 213, p. 119049. doi:10.1016/j.eswa.2022.119049. 
+
+Saoudi, O., Singh, I. and Mahyar, H. (2023) ‘Autonomous vehicles: Open-source technologies, considerations, and development’, Advances in Artificial Intelligence and Machine Learning, 03(01), pp. 669–692. doi:10.54364/aaiml.2023.1145. 
+
+Silva, E., Soares, F., Souza, W. & Freitas, H. (2024) ‘A systematic mapping of autonomous vehicle prototypes: Trends and opportunities’, IEEE Transactions on Intelligent Vehicles, pp. 1–27. doi:10.1109/tiv.2024.3387394. 
+
+Szántó, M., Hidalgo, C., González, L., Rastelli, J., Asua, E. & Vajta, L. (2023) ‘Trajectory planning of automated vehicles using real-time map updates’, IEEE Access, 11, pp. 67468–67481. doi:10.1109/access.2023.3291350. 
+
+Thakur, A. & Mishra, S.K. (2024) ‘An in-depth evaluation of deep learning-enabled adaptive approaches for detecting obstacles using sensor-fused data in Autonomous Vehicles’, Engineering Applications of Artificial Intelligence, 133, p. 108550. doi:10.1016/j.engappai.2024.108550. 
+
+Yan, M., Rampino, L. & Caruso, G. (2023) ‘User acceptance of Autonomous Vehicles: Review and perspectives on the role of the human-machine interfaces’, Computer-Aided Design and Applications, pp. 987–1004. doi:10.14733/cadaps.2023.987-1004. 
+
 
 
