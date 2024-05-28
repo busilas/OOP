@@ -11,4 +11,5 @@ Submit of Codio activities below:
 - ✅ Encapsulation Lab 1
 - ✅ Encapsulation Lab 2
 - ✅ Encapsulation Lab 3
+- ✅ Encapsulation Lab 5
 
