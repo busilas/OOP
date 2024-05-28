@@ -6,4 +6,4 @@ Submit of e-Portfolio activities below:
 - ✅ Summary post
 
 Submit of the Summative Assessment below:
-- ✅ System Design
+- ✅ Driverless Car System Design
