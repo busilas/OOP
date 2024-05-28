@@ -3,12 +3,8 @@
 ## Description
 
 Submit of Codio activities below:
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
-- ✅ Exercise XX.X
+- ✅ Exercise 18.1
+- ✅ Exercise 18.2
 
 Submit of e-Portfolio activities below:
 - ✅ Summary post
