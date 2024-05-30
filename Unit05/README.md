@@ -7,4 +7,4 @@ Submit of Codio activities below:
 - ✅ Exercise 18.2
 
 Submit of e-Portfolio activities below:
-- ✅ Summary post
+- ✅ Python program with polymorphism for the driverless car
