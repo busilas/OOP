@@ -11,7 +11,7 @@ Submit of Codio activities below:
 - ✅ Challenge
 
 Submit of e-Portfolio activities below:
-- ✅ Review the article by Di Silvestro & Nadir (2021)
+- ✅ Review of the article by Di Silvestro & Nadir (2021)
 - ✅ Protected and unprotected variables
 
 Submit of Collaborative Discussion 1 below:
