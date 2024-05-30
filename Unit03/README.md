@@ -6,4 +6,5 @@ Submit of Collaborative Discussion 1 below:
 - ✅ Summary post
 
 Submit of e-Portfolio activities below:
-- ✅ Summary post
+- ✅ Discussion of UML models' applicability in the SDLC
+- ✅ Washing machine state diagram
