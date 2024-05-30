@@ -3,7 +3,10 @@
 ## Description
 
 Submit of e-Portfolio activities below:
-- ✅ Summary post
+- ✅ Activity 1 
+- ✅ Activity 2 
+- ✅ Activity 3
+- ✅ Activity 4
 
 Submit of Collaborative discussion 2 below:
 - ✅ Peer responses
