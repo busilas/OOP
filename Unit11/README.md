@@ -14,7 +14,7 @@ Submit of the Summative Assessment below:
 
 ### Grade
 
-72 % (Distinction)
+88 % (Distinction)
 
 ### Feedback comments
 
